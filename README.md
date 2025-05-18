@@ -40,19 +40,67 @@ batteryOps consists of three main shortcuts:
 
 Create **three personal automations**:
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/266ebeb6-53b7-4379-913f-4034e13f2199" width="300" height="auto"/>
+  <img src="https://github.com/user-attachments/assets/7d901d7d-4a1c-4924-981e-c51610692bf6" width="300" height="auto"/>
+  <img src="https://github.com/user-attachments/assets/f9bad6f3-793a-4337-95a7-9adb8bbc22a8" width="300" height="auto"/>
+</p>
+
+
 ### ➕ 1. When Charger is Connected
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a8f2072b-5d0b-40f1-b256-0235bd43b169" width="500" height="auto"/>
+</p>
+
 - **Trigger:** When device is connected to power.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bda341a3-e5fe-4c33-b985-532a6d1cd4cf" width="500" height="auto"/>
+</p>
+
 - **Action:** Run `Checker` shortcut.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ed32b97-b0c2-4223-b390-88b8e1f21fa2" width="500" height="auto"/>
+</p>
 
 ### 📈 2. When Battery Rises Above [Your Choice, e.g., 80%]
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b3f1f762-83ea-49d0-af4f-3109f8794a45" width="500" height="auto"/>
+</p>
+
 - **Trigger:** Battery level rises above `X%`
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5c4de285-e50e-4ec0-8a4b-b7480fd80952" width="500" height="auto"/>
+</p>
+
 - **Action:** Run `Checker` shortcut.
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/287a1d8c-18d6-4195-ad2b-c88bc1b68c56" width="500" height="auto"/>
+</p>
 
 ### 📉 3. When Battery Falls Below [Your Choice, e.g., 30%]
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b3f1f762-83ea-49d0-af4f-3109f8794a45" width="500" height="auto"/>
+</p>
+
 - **Trigger:** Battery level falls below `X%`
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/869f773b-aeeb-4cb9-ba2b-30ab6b920992" width="500" height="auto"/>
+</p>
+
 - **Action:** Run `Checker` shortcut.
 
-> ⚠️ Don't forget to **disable "Ask Before Running"** on each automation.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8cfc20fa-445d-446d-bfed-7487334d7f6a" width="500" height="auto"/>
+</p>
+
+> ⚠️ Don't forget to **disable "Run after confirmation"** on each automation.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/557770bc-f74b-4c09-b45c-10d83e7a382e" width="500" height="auto"/>
+</p>
 
 ---
 
@@ -72,25 +120,28 @@ Create **three personal automations**:
 
 ## 📌 Output Examples
 
-- **Charging:**  
-  `About 45 minutes. ETA 21:42.`
-- **Discharging:**  
-  `At 20%, you have about 2 hours and 10 minutes left.`
-- **No charge/discharge data yet:**  
-  `Warning, your device may not be charging.`
+- **Charging:**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9d62996c-187d-4926-b79c-fac015374828" width="500" height="auto"/>
+</p>
 
----
+- **Discharging:**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3267ca15-443f-4bd8-a50f-9d4cd6029c9f" width="500" height="auto"/>
+</p>
 
-## 🧪 Optional Improvements
-
-- Add notification or vibration when estimated time is under 5 minutes.
-- Store historical charge/discharge data for trends.
-- Sync across devices with iCloud.
+- **No increase in charge, despite charger plugged in:**  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ad7093a5-0684-4e46-86d8-abf248729ab9" width="500" height="auto"/>
+</p>
 
 ---
 
 ## ❤️ Credits
-
+ Alex Amygdalios
+    -  [Alex Amygdalios](https://github.com/amygdalios) on GitHub
+    -  [AlxR25](https://www.reddit.com/u/AlxR25/s/Kg6Oj3ZvCj) on Reddit
+    
 Crafted with attention to logic, user experience, and iOS automation — inspired by real-world charging habits.
 
 ---
