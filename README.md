@@ -138,10 +138,10 @@ Create **three personal automations**:
 ---
 
 ## ❤️ Credits
- Alex Amygdalios
-    -  [Alex Amygdalios](https://github.com/amygdalios) on GitHub
-    -  [AlxR25](https://www.reddit.com/u/AlxR25/s/Kg6Oj3ZvCj) on Reddit
-    
+**Alex Amygdalios**  
+- [Alex Amygdalios 👨🏻‍💻](https://github.com/amygdalios) on GitHub  
+- [AlxR25](https://www.reddit.com/u/AlxR25/s/Kg6Oj3ZvCj) on Reddit
+
 Crafted with attention to logic, user experience, and iOS automation — inspired by real-world charging habits.
 
 ---
