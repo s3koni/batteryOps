@@ -48,7 +48,6 @@ Create **three personal automations**:
 
 
 ### ➕ 1. When Charger is Connected
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a8f2072b-5d0b-40f1-b256-0235bd43b169" width="500" height="auto"/>
 </p>
@@ -63,8 +62,8 @@ Create **three personal automations**:
   <img src="https://github.com/user-attachments/assets/8ed32b97-b0c2-4223-b390-88b8e1f21fa2" width="500" height="auto"/>
 </p>
 
-### 📈 2. When Battery Rises Above [Your Choice, e.g., 80%]
 
+### 📈 2. When Battery Rises Above [Your Choice, e.g., 80%]
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b3f1f762-83ea-49d0-af4f-3109f8794a45" width="500" height="auto"/>
 </p>
@@ -79,23 +78,22 @@ Create **three personal automations**:
   <img src="https://github.com/user-attachments/assets/287a1d8c-18d6-4195-ad2b-c88bc1b68c56" width="500" height="auto"/>
 </p>
 
-### 📉 3. When Battery Falls Below [Your Choice, e.g., 30%]
 
+### 📉 3. When Battery Falls Below [Your Choice, e.g., 30%]
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b3f1f762-83ea-49d0-af4f-3109f8794a45" width="500" height="auto"/>
 </p>
 
 - **Trigger:** Battery level falls below `X%`
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/869f773b-aeeb-4cb9-ba2b-30ab6b920992" width="500" height="auto"/>
 </p>
 
 - **Action:** Run `Checker` shortcut.
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8cfc20fa-445d-446d-bfed-7487334d7f6a" width="500" height="auto"/>
 </p>
+
 
 > ⚠️ Don't forget to **disable "Run after confirmation"** on each automation.
 <p align="center">
@@ -110,15 +108,15 @@ Create **three personal automations**:
 2. It checks if the phone is **charging**.
 3. If yes, it runs **Time to Charge**:
    - Gets the rate of charge over time.
-   - Calculates time left using battery percentage difference and time elapsed.
+   - Calculates time left using battery percentage difference and time elapsed (10 minutes).
    - Adds that duration to current time to generate an ETA.
    - Formats output like:
-     > "About 1 hour and 20 minutes. ETA 6:45 PM."
+     > "About 1 hour and 20 minutes. ETA 18:45."
 4. If not charging, it runs **Time Left** using similar logic in reverse.
 
 ---
 
-## 📌 Output Examples
+## 📌 Actual Output Examples
 
 - **Charging:**
 <p align="center">
@@ -138,11 +136,11 @@ Create **three personal automations**:
 ---
 
 ## ❤️ Credits
-**Alex Amygdalios**  
+**Alex** inspired this. Check him out.  
 - [Alex Amygdalios 👨🏻‍💻](https://github.com/amygdalios) on GitHub  
 - [AlxR25](https://www.reddit.com/u/AlxR25/s/Kg6Oj3ZvCj) on Reddit
 
-Crafted with attention to logic, user experience, and iOS automation — inspired by real-world charging habits.
+Crafted with attention to logic, user experience, and iOS automation.
 
 ---
 
