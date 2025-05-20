@@ -28,7 +28,7 @@ batteryOps consists of three main shortcuts:
 - Calculates how long your phone can last before hitting 0%.
 - Works in reverse of charging — from full to empty.
 
-### 3. **Checker -** [Link here](https://www.icloud.com/shortcuts/e6e0a3be56bd4eb5b35472eaa5aaee2b)
+### 3. **Checker -** [Link here](https://www.icloud.com/shortcuts/2c0e3524c8474b149e13c94f84ca6ed3)
 - Acts as a bridge.
 - Automatically checks if your device is charging.
   - ✅ If plugged in (charging), it runs **Time to Charge**.
