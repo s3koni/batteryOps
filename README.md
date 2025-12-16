@@ -8,11 +8,11 @@ batteryOps is a set of Apple Shortcuts designed to intelligently estimate the ti
 
 ## 🚀 Features
 
-- 📲 **Time to Charge** – Displays how long it will take to fully charge, with an ETA.
-- 🔋 **Time Left** – Estimates how long you have left before your battery is drained.
-- 🧠 **Smart checker** – Detects whether you're charging or discharging and calls the right shortcut.
-- ⏱️ **Friendly time format** – Human-readable output like `About 1 hour and 5 minutes. ETA 10:45`.
-- ⚡ Fully automatic – Triggers based on defined system events (e.g., plugging in, battery %).
+- **Time to Charge** – Displays how long it will take to fully charge, with an ETA.
+- **Time Left** – Estimates how long you have left before your battery is drained.
+- **Smart checker** – Detects whether you're charging or discharging and calls the right shortcut.
+- **Friendly time format** – Human-readable output like `About 1 hour and 5 minutes. ETA 10:45`.
+- **Fully automatic** – Triggers based on defined system events (e.g., plugging in, battery %).
 
 ---
 
@@ -47,7 +47,7 @@ Create **three personal automations**:
 </p>
 
 
-### ➕ 1. When Charger is Connected
+### 1. When Charger is Connected
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a8f2072b-5d0b-40f1-b256-0235bd43b169" width="500" height="auto"/>
 </p>
@@ -63,7 +63,7 @@ Create **three personal automations**:
 </p>
 
 
-### 📈 2. When Battery Rises Above [Your Choice, e.g., 80%]
+### 2. When Battery Rises Above [Your Choice, e.g., 80%]
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b3f1f762-83ea-49d0-af4f-3109f8794a45" width="500" height="auto"/>
 </p>
@@ -79,7 +79,7 @@ Create **three personal automations**:
 </p>
 
 
-### 📉 3. When Battery Falls Below [Your Choice, e.g., 30%]
+### 3. When Battery Falls Below [Your Choice, e.g., 30%]
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b3f1f762-83ea-49d0-af4f-3109f8794a45" width="500" height="auto"/>
 </p>
@@ -102,7 +102,7 @@ Create **three personal automations**:
 
 ---
 
-## 🧠 How It Works (Logic Summary)
+## How It Works (Logic Summary)
 
 1. On trigger, `Checker` runs.
 2. It checks if the phone is **charging**.
@@ -116,7 +116,7 @@ Create **three personal automations**:
 
 ---
 
-## 📌 Actual Output Examples
+## Actual Output Examples
 
 - **Charging:**
 <p align="center">
@@ -144,6 +144,6 @@ Crafted with attention to logic, user experience, and iOS automation.
 
 ---
 
-## 📂 License
+## License
 
 MIT License. Use freely, modify boldly.
