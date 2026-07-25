@@ -68,7 +68,7 @@ Create **three personal automations**:
   <img src="https://github.com/user-attachments/assets/b3f1f762-83ea-49d0-af4f-3109f8794a45" width="500" height="auto"/>
 </p>
 
-- **Trigger:** Battery level rises above `X%`
+- **Trigger:** Battery level rises above `X%`. 80 is recommended because thats when the second phase of charging begins. this phase is commonly known as the contact voltage (CV) phase.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5c4de285-e50e-4ec0-8a4b-b7480fd80952" width="500" height="auto"/>
 </p>
