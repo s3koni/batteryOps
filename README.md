@@ -6,7 +6,7 @@ batteryOps is a set of Apple Shortcuts designed to intelligently estimate the ti
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Time to Charge** – Displays how long it will take to fully charge, with an ETA.
 - **Time Left** – Estimates how long you have left before your battery is drained.
@@ -16,7 +16,7 @@ batteryOps is a set of Apple Shortcuts designed to intelligently estimate the ti
 
 ---
 
-## 🔧 Setup Guide
+## Setup Guide
 
 batteryOps consists of three main shortcuts:
 
@@ -36,7 +36,7 @@ batteryOps consists of three main shortcuts:
 
 ---
 
-## 🧩 Required Automations (Set in iOS Shortcuts > Automation)
+## Required Automations (Set in iOS Shortcuts > Automation)
 
 Create **three personal automations**:
 
