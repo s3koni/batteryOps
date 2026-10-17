@@ -41,64 +41,33 @@ batteryOps consists of three main shortcuts:
 Create **three personal automations**:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/266ebeb6-53b7-4379-913f-4034e13f2199" width="300" height="auto"/>
-  <img src="https://github.com/user-attachments/assets/7d901d7d-4a1c-4924-981e-c51610692bf6" width="300" height="auto"/>
-  <img src="https://github.com/user-attachments/assets/f9bad6f3-793a-4337-95a7-9adb8bbc22a8" width="300" height="auto"/>
+
+<img width="300" height="auto" alt="IMG_3573" src="https://github.com/user-attachments/assets/8201b2c7-3acc-4dfb-ab4c-e6c3adc66553" />
+
 </p>
 
 
 ### 1. When Charger is Connected
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a8f2072b-5d0b-40f1-b256-0235bd43b169" width="500" height="auto"/>
-</p>
-
 - **Trigger:** When device is connected to power.
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bda341a3-e5fe-4c33-b985-532a6d1cd4cf" width="500" height="auto"/>
-</p>
-
 - **Action:** Run `Checker` shortcut.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8ed32b97-b0c2-4223-b390-88b8e1f21fa2" width="500" height="auto"/>
+  <img width="500" height="auto" alt="IMG_3575" src="https://github.com/user-attachments/assets/8c756444-1ccd-47f3-9bb0-a3ca95878150" />
 </p>
-
 
 ### 2. When Battery Rises Above [Your Choice, e.g., 80%]
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b3f1f762-83ea-49d0-af4f-3109f8794a45" width="500" height="auto"/>
-</p>
-
 - **Trigger:** Battery level rises above `X%`. 80% is recommended because that's when the second phase of charging begins. This phase is commonly known as the constant voltage (CV) phase.
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5c4de285-e50e-4ec0-8a4b-b7480fd80952" width="500" height="auto"/>
-</p>
-
 - **Action:** Run `Checker` shortcut.
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/287a1d8c-18d6-4195-ad2b-c88bc1b68c56" width="500" height="auto"/>
+<p align="center">
+  <img width="500" height="auto" alt="IMG_3577" src="https://github.com/user-attachments/assets/8f7b26d1-0423-4b38-886b-866eca365c21" />
 </p>
-
 
 ### 3. When Battery Falls Below [Your Choice, e.g., 30%]
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b3f1f762-83ea-49d0-af4f-3109f8794a45" width="500" height="auto"/>
-</p>
-
 - **Trigger:** Battery level falls below `X%`
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/869f773b-aeeb-4cb9-ba2b-30ab6b920992" width="500" height="auto"/>
-</p>
-
 - **Action:** Run `Checker` shortcut.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8cfc20fa-445d-446d-bfed-7487334d7f6a" width="500" height="auto"/>
+<img width="500" height="auto" alt="IMG_3578" src="https://github.com/user-attachments/assets/3be874e8-5e58-4095-9fd1-9b341fbb40e1" />
 </p>
 
-
-> ⚠️ Don't forget to **disable "Run after confirmation"** on each automation.
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/557770bc-f74b-4c09-b45c-10d83e7a382e" width="500" height="auto"/>
-</p>
 
 ---
 
