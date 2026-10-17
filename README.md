@@ -20,11 +20,11 @@ batteryOps is a set of Apple Shortcuts designed to intelligently estimate the ti
 
 batteryOps consists of three main shortcuts:
 
-### 1. **Time to Charge -** [Link here](https://www.icloud.com/shortcuts/fba417931a164f01b9a1cd172ff90394)
+### 1. **Time to Charge -** [Link here](https://www.icloud.com/shortcuts/3c293e5c6add48c8ac73779cc779900f)
 - Calculates how long it will take your phone to fully charge.
 - Also shows an ETA (estimated time of completion).
 
-### 2. **Time Left -** [Link here](https://www.icloud.com/shortcuts/b8a750be31444bb08ba36f61c13f2b96)
+### 2. **Time Left -** [Link here](https://www.icloud.com/shortcuts/4460511668a74c7aa4c9ab32848324da)
 - Calculates how long your phone can last before hitting 0%.
 - Works in reverse of charging — from full to empty.
 
